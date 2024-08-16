@@ -5,3 +5,5 @@
 - 📫 discord.gg/1966 -> **@nightsocial**
 - 😄 Diğer veletlerin sniperlarını falan pub ediyoz işte XDDDD
 - ⚡ Hızlıysan yakala 
+
+![](https://komarev.com/ghpvc/?nighthawk1966&color=green)
