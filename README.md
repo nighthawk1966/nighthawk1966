@@ -6,4 +6,6 @@
 - 😄 Diğer veletlerin sniperlarını falan pub ediyoz işte XDDDD
 - ⚡ Hızlıysan yakala 
 
-![](https://komarev.com/ghpvc/?nighthawk1966&color=green)
+```
+<h1>PROFILE VIEWS;</h1>
+<p align="center"><img src="https://count.getloli.com/get/@:nighthawk1966" alt=":nighthawk1966" /></p>
